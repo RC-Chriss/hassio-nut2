@@ -1,5 +1,5 @@
 name: "Network UPS Tools 2"
-version: "0.1.0"
+version: "0.2.0"
 slug: "nut2"
 description: "Zweites NUT-Add-on für eine zweite USV"
 startup: services
