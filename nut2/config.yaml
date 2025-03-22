@@ -42,4 +42,3 @@ schema:
       driver: str
       port: str
   mode: list(netserver|standalone)
-image: "ghcr.io/hassio-addons/nut/{arch}"
